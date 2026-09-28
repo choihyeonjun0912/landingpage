@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syncra.ai.kr/sitemap.xml
